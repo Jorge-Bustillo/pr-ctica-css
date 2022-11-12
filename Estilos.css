@@ -57,6 +57,8 @@ nav li{
     border:1px solid #000;
     text-align:center;
     color:#fff;
+    position: relative;
+    top: 8em;
 }
 
 nav li:hover,#puntero{

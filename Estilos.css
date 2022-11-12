@@ -5,7 +5,7 @@ body{
   .foto-n{
     height: 10%;
     width: 20%;
-    position: fixed;
+    position: absolute;
   }
 
   .foto-e{
@@ -30,7 +30,7 @@ body{
   text-transform:uppercase;
   padding: 4%;
   margin:1%;
-  position:absolute;
+  position: fixed;
  }
 
  div{

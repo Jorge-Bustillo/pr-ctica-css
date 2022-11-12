@@ -42,11 +42,13 @@ body{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   
  }
+
 nav a{
     text-decoration:none;
     color:inherit;
     font-size:14px;
 }
+
 nav li{
     display:inline-block;
     width:10%;

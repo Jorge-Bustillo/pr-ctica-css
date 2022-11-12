@@ -66,6 +66,7 @@ nav li{
 nav li:hover,#puntero{
     background-color:#fff;
     color:#11865f;
+     z-index: 3;
 }
 
 #puntero{

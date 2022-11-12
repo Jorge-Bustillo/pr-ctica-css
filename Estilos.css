@@ -5,6 +5,7 @@ body{
   .foto-n{
     height: 10%;
     width: 20%;
+    position: absolute;
   }
 
   .foto-e{

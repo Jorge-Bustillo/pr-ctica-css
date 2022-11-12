@@ -20,6 +20,7 @@ body{
  li,dt{
   text-align: left;
   color:#11865f;
+  list-style-position:inside;
  }
 
  h1,h2{
@@ -30,7 +31,7 @@ body{
   margin:1%;
  }
 
- .contenedor div{
+ div{
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   
  }

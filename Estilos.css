@@ -13,11 +13,11 @@ body{
     text-align: center;
   }
 
- ul{
+ *ul{
   text-align: center;
  }
 
- *li,dt{
+ li,dt{
   text-align: left;
   color:#11865f;
   list-style-position:inside;

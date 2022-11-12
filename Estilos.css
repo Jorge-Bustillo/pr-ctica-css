@@ -17,7 +17,7 @@ body{
   text-align: center;
  }
 
- li,dt{
+ *li,dt{
   text-align: left;
   color:#11865f;
   list-style-position:inside;
@@ -42,10 +42,6 @@ body{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   
  }
-*li{
-    color:blue;
-}
-
 
  
  

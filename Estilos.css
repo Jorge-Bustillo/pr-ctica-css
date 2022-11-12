@@ -65,9 +65,6 @@ nav li:hover,#puntero{
 }
 
 #puntero{
-  cursor: puntero;
-}
-#puntero{
   cursor: pointer;
 }
 

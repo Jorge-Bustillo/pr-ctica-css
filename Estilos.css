@@ -47,36 +47,38 @@ body{
 nav a{
     text-decoration:none;
     color:inherit;
-    font-size:14px;
+    font: size 14px;
 }
 
 nav li{
     display:inline-block;
     width:10%;
-    padding:5px 10px;
-    background-color:#000;
-    border:1px solid #000;
+    padding: 5px 10px;
+    position: fixed;
     text-align:center;
     color:#fff;
     position: relative;
     top: 8em;
-    
+    z-index: 1;
+    position:static; 
 }
 
 nav li:hover,#puntero{
     background-color:#fff;
     color:#11865f;
-    position: fixed;
     left: 0px;
     top: 0px;
     width: 50%;
     height: 50px;
-    z-index: 1;
+    position: fixed;
+    margin:30px 
 }
 
 
 #puntero{
   cursor: pointer;
+  position:static;
+  position: fixed;
 }
 
 

@@ -30,7 +30,6 @@ body{
   text-transform:uppercase;
   padding: 4%;
   margin:1%;
-  position: fixed;
  }
 
  div{
@@ -66,7 +65,8 @@ nav li{
 nav li:hover,#puntero{
     background-color:#fff;
     color:#11865f;
-     z-index: 3;
+    position: fixed;
+    z-index: 3;
 }
 
 #puntero{

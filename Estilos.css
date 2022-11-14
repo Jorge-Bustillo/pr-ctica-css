@@ -68,7 +68,7 @@ nav li:hover,#puntero{
     position: fixed;
     left: 0px;
     top: 0px;
-    width: 100%;
+    width: 50%;
     height: 50px;
     z-index: 1;
 }

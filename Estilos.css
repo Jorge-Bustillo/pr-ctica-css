@@ -60,6 +60,7 @@ nav li{
     color:#fff;
     position: relative;
     top: 8em;
+    float: left;
 }
 
 nav li:hover,#puntero{

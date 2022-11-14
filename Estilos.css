@@ -60,7 +60,6 @@ nav li{
     color:#fff;
     position: relative;
     top: 8em;
-    z-index: 1;
 }
 
 nav li:hover,#puntero{
@@ -68,6 +67,7 @@ nav li:hover,#puntero{
     color:#11865f;
     position: fixed;
     z-index: 1;
+}
 }
 
 #puntero{
